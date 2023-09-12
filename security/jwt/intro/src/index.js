@@ -51,18 +51,18 @@ const token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlRlc3RVc2Vy
  */
 
 // um den token zu verifizieren, schreiben wir eine funktion, der wir den token übergeben:
-const verifyAccessToken = (token) =>
-{
-    // wir nutzen die methode .verify(); um zu prüfen, ob der token mit den erwarteten daten gleich ist. Laos ob das secret mit den daten, und dem token gemeinsame das selbe ergebnis liefert:
-    jwt.verify(token, secret, (err, tokenData) =>
-    {
-        // wenn der token inkorrekt ist, geben wir einen fehler aus:
-        if(err) throw new Error(err);
-
-        // sollte die verifikation klappen, geben wir die daten des payloads zurück:
+const verifyAccessToken = (token) => {
+    try {
+       
+        const tokenData = jwt.verify(token, secret);
+       
         console.log(tokenData);
-    });
+    } catch (err) {
+        // Doğrulama başarısız olursa bir hata mesajı yazdırıyoruz
+        console.error("Token error:", err.message);
+    }
 }
+
 
 // wir führen die funktion aus, und testen ob der token korrekt ist:
 verifyAccessToken(token);
