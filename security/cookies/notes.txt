@@ -1,0 +1,13 @@
+Cookies sind kleine Textdateien, die verwendet werden, um Informationen zwischen Internetbrowsern und Websites zu speichern und auszutauschen.
+
+1- Zweck: Cookies sind kleine Textdateien, die von Websites und Webbrowsern verwendet werden, um Informationen zu speichern und auszutauschen. Sie dienen verschiedenen Zwecken wie der Verbesserung der Benutzererfahrung, der Überwachung der Leistung einer Website, der Verfolgung von Benutzern und der Bereitstellung personalisierter Inhalte. Zum Beispiel können Benutzerdaten wie Benutzername und Passwort über Cookies im Browser gespeichert werden, sodass Sie sich beim nächsten Besuch automatisch anmelden können.
+
+2- Arten: Cookies können verschiedene Arten haben. Sitzungscookies sind temporäre Cookies, die gelöscht werden, wenn Sie Ihren Browser schließen. Dauerhafte Cookies werden für einen bestimmten Zeitraum auf Ihrem Gerät gespeichert und dienen dazu, langfristige Informationen zu speichern.
+
+3- Datenschutz und Sicherheit: Cookies enthalten keine persönlichen Informationen, aber der Schutz Ihrer Privatsphäre ist wichtig. Aus diesem Grund sollten Cookies, die sensible Informationen enthalten, sicher aufbewahrt werden.
+
+4- Cookie-Verwaltung: Sie können Cookies über die Einstellungen Ihres Browsers verwalten. Ihr Browser bietet Optionen zum Akzeptieren oder Ablehnen von Cookies, Löschen vorhandener Cookies und Festlegen, wie neue Cookies verwendet werden sollen.
+
+5- Verwendung von Cookies: Die meisten Websites sammeln Besucherstatistiken, personalisieren Werbung und verfolgen Benutzerverhalten mithilfe von Cookies. Dies dient dazu, eine bessere Benutzererfahrung zu bieten und gezieltere Inhalte bereitzustellen.
+
+6- Cookies und rechtliche Regelungen: In vielen Ländern und Regionen gibt es rechtliche Regelungen zur Verwendung von Cookies auf Websites. Diese Regelungen können Anforderungen an die Kontrolle von Cookies durch Benutzer und die Informationspflichten bezüglich der Verwendung von Cookies enthalten.
